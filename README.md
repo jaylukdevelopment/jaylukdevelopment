@@ -17,7 +17,6 @@ So for now there is not really much to see but that will change.
 - I'm a **Java Developer**
 - Founder of **PixelCity**
 - Always learning and building
-- Favorite Film Producer is Christopher Nolan. Fucking best movies ever.
 
 ## PixelCity Profile
 
@@ -25,7 +24,7 @@ So for now there is not really much to see but that will change.
 - Host your profile free
 - We collect no Data - Your Privacy is important for us
 
-## My Server's are all Powered by Dataforest so check it out. It's actually very nice and usefull with the PAT. So Check it out and claim 25€ worth of Token for Registration.
+# My Server's are all Powered by Dataforest so check it out. It's actually very nice and usefull with the PAT. So Check it out and claim 25€ worth of Token for Registration.
 
 ## 🌲 Powered by Dataforest Cloud
 
